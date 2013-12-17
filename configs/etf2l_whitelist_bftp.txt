@@ -1,0 +1,8 @@
+
+// ETF2L Blast From The Past cup whitelist
+// NO FUN ALLOWED
+
+"item_whitelist"
+{
+	"unlisted_items_default_to"		"0"
+}
