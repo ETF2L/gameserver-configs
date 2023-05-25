@@ -1,5 +1,5 @@
-// Whitelist generated at Fri, 07 Jan 2022 15:44:09 +0100
-// Whitelist: ETF2L 6v6 (Season 40) (ID: 12366)
+// Whitelist generated at Thu, 25 May 2023 22:48:15 +0200
+// Whitelist: ETF2L 6v6 (Autumn 2022) (ID: 13394)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/etf2l_6v6
@@ -34,6 +34,8 @@
 // Blocked weapons for Soldier
 // - Primary
 //  * Cow Mangler 5000
+// - Secondary
+//  * Battalion's Backup
 // - Melee
 //  * Disciplinary Action
 //  * Market Gardener
@@ -83,7 +85,7 @@
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------- Blocked weapons/reskins (Total: 36) -------------\\
+	//------------- Blocked weapons/reskins (Total: 37) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -98,6 +100,7 @@
 	"The Flying Guillotine"						"0"
 	"The Soda Popper"						"0"
 	//___________________________ Soldier ___________________________\\
+	"The Battalion's Backup"					"0"
 	"The Cow Mangler 5000"						"0"
 	"The Disciplinary Action"					"0"
 	"The Market Gardener"						"0"
@@ -139,9 +142,12 @@
 	//____________________________ Pyro _____________________________\\
 	"Nose Candy"							"0"
 
-	//----- Globally Competitive League banned items (Total: 1) -----\\
+	//----- Globally Competitive League banned items (Total: 3) -----\\
+	//_________________________ All classes _________________________\\
+	"Yeti Park Cap"							"0"
 	//____________________________ Scout ____________________________\\
 	"The Corpse Carrier"						"0"
+	"The Sprinting Cephalopod"					"0"
 
 	//------------------- Noisemakers (Total: 14) -------------------\\
 	"Charity Noise Maker - Bell"					"0"
@@ -182,7 +188,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 45) ----------------------\\
+	//--------------------- Taunts (Total: 52) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -193,6 +199,7 @@
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: The Fist Bump"						"0"
+	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
@@ -208,16 +215,20 @@
 	"Taunt: Rocket Jockey"						"0"
 	//____________________________ Pyro _____________________________\\
 	"Pool Party Taunt"						"0"
+	"Taunt: Roasty Toasty"						"0"
 	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
 	"Taunt: The Hot Wheeler"					"0"
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
+	"Taunt: Drunk Mann's Cannon"					"0"
 	"Taunt: Scotsmann's Stagger"					"0"
+	"Taunt: Shanty Shipmate"					"0"
 	"Taunt: The Drunken Sailor"					"0"
 	"Taunt: The Pooped Deck"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: Bare Knuckle Beatdown"					"0"
+	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
 	"Taunt: The Russian Arms Race"					"0"
 	"Taunt: The Soviet Strongarm"					"0"
@@ -237,5 +248,7 @@
 	"Taunt: Shooter's Stakeout"					"0"
 	//_____________________________ Spy _____________________________\\
 	"Taunt: Luxury Lounge"						"0"
+	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
+	"Taunt: The Travel Agent"					"0"
 }

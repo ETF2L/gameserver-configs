@@ -1,8 +1,8 @@
-// Whitelist generated at Thu, 25 May 2023 22:48:17 +0200
+// Whitelist generated at Thu, 25 May 2023 23:00:58 +0200
 // Whitelist: ETF2L Highlander (Spring 2023) (ID: 13698)
 
 // Share or view this whitelist:
-//	https://whitelist.tf/etf2l_9v9
+//	https://whitelist.tf/etf2l_9v9_spring2023
 
 // New items added to the game are: allowed
 // Hats are: allowed
