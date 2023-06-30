@@ -1,4 +1,4 @@
-// Whitelist generated at Thu, 25 May 2023 22:48:20 +0200
+// Whitelist generated at Fri, 30 Jun 2023 09:24:15 +0200
 // Whitelist: ETF2L BBall (ID: 10072)
 
 // Share or view this whitelist:
@@ -687,7 +687,7 @@
 	//____________________________ Pyro _____________________________\\
 	"Nose Candy"							"0"
 
-	//------------------ Gifting items (Total: 31) ------------------\\
+	//------------------ Gifting items (Total: 32) ------------------\\
 	"Companion Square Promo Package"				"1"
 	"Gift - 1 Duck Token"						"1"
 	"Gift - 1 EOTL Key"						"1"
@@ -719,6 +719,7 @@
 	"Steam Translation Package"					"1"
 	"Store Purchase Promotion Package"				"1"
 	"Team Fortress 2 Soundtrack Promo Package"			"1"
+	"Team Fortress 2 Soundtrack Promo Package Untradable"		"1"
 
 	//----- Globally Competitive League banned items (Total: 3) -----\\
 	//_________________________ All classes _________________________\\

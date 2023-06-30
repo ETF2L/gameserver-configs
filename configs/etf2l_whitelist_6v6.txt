@@ -1,5 +1,5 @@
-// Whitelist generated at Thu, 25 May 2023 22:48:15 +0200
-// Whitelist: ETF2L 6v6 (Autumn 2022) (ID: 13394)
+// Whitelist generated at Fri, 30 Jun 2023 09:24:13 +0200
+// Whitelist: ETF2L 6v6 (Summer 2023) (ID: 13801)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/etf2l_6v6
@@ -47,6 +47,8 @@
 //  * Scorch Shot
 
 // Blocked weapons for Demoman
+// - Primary
+//  * Loch-n-Load
 // - Secondary
 //  * Quickiebomb Launcher
 
@@ -85,7 +87,7 @@
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------- Blocked weapons/reskins (Total: 37) -------------\\
+	//------------- Blocked weapons/reskins (Total: 38) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -109,6 +111,7 @@
 	"The Gas Passer"						"0"
 	"The Scorch Shot"						"0"
 	//___________________________ Demoman ___________________________\\
+	"The Loch-n-Load"						"0"
 	"The Quickiebomb Launcher"					"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
@@ -188,7 +191,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 52) ----------------------\\
+	//--------------------- Taunts (Total: 51) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -199,7 +202,6 @@
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: The Fist Bump"						"0"
-	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
