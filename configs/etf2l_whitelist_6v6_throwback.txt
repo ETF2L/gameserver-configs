@@ -1,8 +1,8 @@
-// Whitelist generated at Sat, 07 Oct 2023 12:56:05 +0200
-// Whitelist: ETF2L Ultiduo (ID: 8677)
+// Whitelist generated at Sat, 07 Oct 2023 12:56:09 +0200
+// Custom Whitelist ID: 6262
 
 // Share or view this whitelist:
-//	https://whitelist.tf/etf2l_ultiduo
+//	https://whitelist.tf/etf2l_6v6_throwback
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -16,34 +16,194 @@
 // Festive weapon reskins are: allowed
 // Botkiller weapon reskins are: allowed
 
-// Allowed weapons for Soldier
+// Blocked weapons for Multiple classes
+// - Secondary
+//  * B.A.S.E. Jumper
+//  * Reserve Shooter
+
+// Blocked weapons for Scout
+// - Primary
+//  * Soda Popper
+// - Secondary
+//  * Bonk! Atomic Punch
+//  * Crit-a-Cola
+//  * Flying Guillotine
+//  * Mad Milk
+// - Melee
+//  * Atomizer
+//  * Sandman
+
+// Blocked weapons for Soldier
+// - Primary
+//  * Air Strike
+//  * Beggar's Bazooka
 // - Melee
 //  * Disciplinary Action
-//  * Escape Plan
 
-// Allowed weapons for Medic
+// Blocked weapons for Pyro
 // - Primary
-//  * Blutsauger
-//  * Crusader's Crossbow
-//  * Overdose
+//  * Dragon's Fury
+// - Secondary
+//  * Gas Passer
+//  * Thermal Thruster
 // - Melee
-//  * Ubersaw
+//  * Hot Hand
+
+// Blocked weapons for Demoman
+// - Primary
+//  * Loch-n-Load
+
+// Blocked weapons for Heavy
+// - Primary
+//  * Brass Beast
+//  * Natascha
+// - Secondary
+//  * Buffalo Steak Sandvich
+//  * Dalokohs Bar
+//  * Sandvich
+//  * Second Banana
+// - Melee
+//  * Fists of Steel
+//  * Gloves of Running Urgently
+
+// Blocked weapons for Engineer
+// - Primary
+//  * Pomson 6000
+//  * Rescue Ranger
+// - Secondary
+//  * Short Circuit
+//  * Wrangler
+// - Melee
+//  * Gunslinger
+
+// Blocked weapons for Medic
+// - Secondary
+//  * Quick-Fix
+// - Melee
+//  * Solemn Vow
+//  * Vita-Saw
+
+// Blocked weapons for Sniper
+// - Primary
+//  * Sydney Sleeper
+// - Secondary
+//  * Cozy Camper
+//  * Darwin's Danger Shield
+//  * Jarate
 
 "item_whitelist"
 {
 	"unlisted_items_default_to"		"0"
 
-	//----------------- Allowed weapons (Total: 6) ------------------\\
+	//----------------- Allowed weapons (Total: 96) -----------------\\
+	//______________________ Multiple classes _______________________\\
+	"Panic Attack Shotgun"						"1"
+	"The Half-Zatoichi"						"1"
+	"The Pain Train"						"1"
+	//____________________________ Scout ____________________________\\
+	"Baby Face's Blaster"						"1"
+	"Pretty Boy's Pocket Pistol"					"1"
+	"Sun-on-a-Stick"						"1"
+	"The Back Scatter"						"1"
+	"The Boston Basher"						"1"
+	"The Candy Cane"						"1"
+	"The Fan O'War"							"1"
+	"The Force-a-Nature"						"1"
+	"The Shortstop"							"1"
+	"The Winger"							"1"
+	"The Wrap Assassin"						"1"
 	//___________________________ Soldier ___________________________\\
-	"The Disciplinary Action"					"1"
+	"Rocket Jumper"							"1"
+	"The Battalion's Backup"					"1"
+	"The Black Box"							"1"
+	"The Buff Banner"						"1"
+	"The Concheror"							"1"
+	"The Cow Mangler 5000"						"1"
+	"The Direct Hit"						"1"
+	"The Equalizer"							"1"
 	"The Escape Plan"						"1"
+	"The Gunboats"							"1"
+	"The Liberty Launcher"						"1"
+	"The Mantreads"							"1"
+	"The Market Gardener"						"1"
+	"The Righteous Bison"						"1"
+	//____________________________ Pyro _____________________________\\
+	"Sharpened Volcano Fragment"					"1"
+	"The Axtinguisher"						"1"
+	"The Back Scratcher"						"1"
+	"The Backburner"						"1"
+	"The Degreaser"							"1"
+	"The Detonator"							"1"
+	"The Flare Gun"							"1"
+	"The Homewrecker"						"1"
+	"The Manmelter"							"1"
+	"The Neon Annihilator"						"1"
+	"The Phlogistinator"						"1"
+	"The Powerjack"							"1"
+	"The Scorch Shot"						"1"
+	"The Third Degree"						"1"
+	//___________________________ Demoman ___________________________\\
+	"Ali Baba's Wee Booties"					"1"
+	"Stickybomb Jumper"						"1"
+	"The Chargin' Targe"						"1"
+	"The Claidheamohmor"						"1"
+	"The Eyelander"							"1"
+	"The Iron Bomber"						"1"
+	"The Loose Cannon"						"1"
+	"The Persian Persuader"						"1"
+	"The Quickiebomb Launcher"					"1"
+	"The Scotsman's Skullcutter"					"1"
+	"The Scottish Resistance"					"1"
+	"The Splendid Screen"						"1"
+	"The Tide Turner"						"1"
+	"The Ullapool Caber"						"1"
+	//____________________________ Heavy ____________________________\\
+	"The Eviction Notice"						"1"
+	"The Family Business"						"1"
+	"The Holiday Punch"						"1"
+	"The Huo Long Heatmaker"					"1"
+	"The Killing Gloves of Boxing"					"1"
+	"Tomislav"							"1"
+	"Warrior's Spirit"						"1"
+	//__________________________ Engineer ___________________________\\
+	"The Eureka Effect"						"1"
+	"The Frontier Justice"						"1"
+	"The Jag"							"1"
+	"The Southern Hospitality"					"1"
+	"The Widowmaker"						"1"
 	//____________________________ Medic ____________________________\\
+	"The Amputator"							"1"
 	"The Blutsauger"						"1"
 	"The Crusader's Crossbow"					"1"
+	"The Kritzkrieg"						"1"
 	"The Overdose"							"1"
 	"The Ubersaw"							"1"
+	"The Vaccinator"						"1"
+	//___________________________ Sniper ____________________________\\
+	"The Bazaar Bargain"						"1"
+	"The Bushwacka"							"1"
+	"The Classic"							"1"
+	"The Cleaner's Carbine"						"1"
+	"The Hitman's Heatmaker"					"1"
+	"The Huntsman"							"1"
+	"The Machina"							"1"
+	"The Razorback"							"1"
+	"The Shahanshah"						"1"
+	"The Tribalman's Shiv"						"1"
+	//_____________________________ Spy _____________________________\\
+	"Conniver's Kunai"						"1"
+	"L'Etranger"							"1"
+	"The Ambassador"						"1"
+	"The Big Earner"						"1"
+	"The Cloak and Dagger"						"1"
+	"The Dead Ringer"						"1"
+	"The Diamondback"						"1"
+	"The Enforcer"							"1"
+	"The Red-Tape Recorder"						"1"
+	"The Spy-cicle"							"1"
+	"Your Eternal Reward"						"1"
 
-	//------------- Allowed weapon reskins (Total: 280) -------------\\
+	//------------- Allowed weapon reskins (Total: 303) -------------\\
 	//_________________________ All classes _________________________\\
 	"Gold Frying Pan"						"1"
 	"Prinny Machete"						"1"
@@ -93,6 +253,7 @@
 	"craftsmann_scattergun_tartantorpedo"				"1"
 	"Diamond Botkiller Scattergun Mk.I"				"1"
 	"Festive Bat 2011"						"1"
+	"Festive Force-a-Nature"					"1"
 	"Festive Holy Mackerel"						"1"
 	"Festive Scattergun 2011"					"1"
 	"gentlemanne_scattergun_coffinnail"				"1"
@@ -109,6 +270,7 @@
 	"Silver Botkiller Scattergun Mk.II"				"1"
 	"teufort_scattergun_sprucedeuce"				"1"
 	"The Holy Mackerel"						"1"
+	"Three-Rune Blade"						"1"
 	"Unarmed Combat"						"1"
 	"warbird_scattergun_corsair"					"1"
 	"warbird_scattergun_killerbee"					"1"
@@ -119,6 +281,8 @@
 	"concealedkiller_rocketlauncher_woodlandwarrior"		"1"
 	"craftsmann_rocketlauncher_americanpastoral"			"1"
 	"Diamond Botkiller Rocket Launcher Mk.I"			"1"
+	"Festive Black Box"						"1"
+	"Festive Buff Banner"						"1"
 	"Festive Rocket Launcher 2011"					"1"
 	"gentlemanne_rocketlauncher_coffinnail"				"1"
 	"gentlemanne_rocketlauncher_highrollers"			"1"
@@ -141,7 +305,10 @@
 	"concealedkiller_flamethrower_forestfire"			"1"
 	"craftsmann_flamethrower_barnburner"				"1"
 	"Diamond Botkiller Flame Thrower Mk.I"				"1"
+	"Festive Axtinguisher"						"1"
+	"Festive Backburner 2014"					"1"
 	"Festive Flamethrower 2011"					"1"
+	"Festive Flare Gun"						"1"
 	"gentlemanne_flamethrower_coffinnail"				"1"
 	"Gold Botkiller Flame Thrower Mk.I"				"1"
 	"Gold Botkiller Flame Thrower Mk.II"				"1"
@@ -150,6 +317,7 @@
 	"harvest_flamethrower_pumpkinpatch"				"1"
 	"powerhouse_flamethrower_flashfryer"				"1"
 	"powerhouse_flamethrower_turbinetorcher"			"1"
+	"Promo Neon Annihilator"					"1"
 	"pyroland_flamethrower_balloonicorn"				"1"
 	"pyroland_flamethrower_rainbow"					"1"
 	"Rust Botkiller Flame Thrower Mk.I"				"1"
@@ -157,7 +325,9 @@
 	"Silver Botkiller Flame Thrower Mk.II"				"1"
 	"teufort_flamethrower_bovineblazemaker"				"1"
 	"teufort_flamethrower_earthskyandfire"				"1"
+	"The Maul"							"1"
 	"The Nostromo Napalmer"						"1"
+	"The Postal Pummeler"						"1"
 	"warbird_flamethrower_warhawk"					"1"
 	//___________________________ Demoman ___________________________\\
 	"Blood Botkiller Stickybomb Launcher Mk.I"			"1"
@@ -166,8 +336,10 @@
 	"concealedkiller_stickybomblauncher_suddenflurry"		"1"
 	"craftsmann_stickybomblauncher_blastedbombardier"		"1"
 	"Diamond Botkiller Stickybomb Launcher Mk.I"			"1"
+	"Festive Eyelander"						"1"
 	"Festive Grenade Launcher"					"1"
 	"Festive Stickybomb Launcher 2011"				"1"
+	"Festive Targe 2014"						"1"
 	"gentlemanne_grenadelauncher_coffinnail"			"1"
 	"gentlemanne_grenadelauncher_topshelf"				"1"
 	"gentlemanne_stickybomblauncher_coffinnail"			"1"
@@ -179,6 +351,7 @@
 	"harvest_stickybomblauncher_autumn"				"1"
 	"harvest_stickybomblauncher_macabreweb"				"1"
 	"harvest_stickybomblauncher_pumpkinpatch"			"1"
+	"Nessie's Nine Iron"						"1"
 	"powerhouse_stickybomblauncher_liquidasset"			"1"
 	"powerhouse_stickybomblauncher_pinkelephant"			"1"
 	"pyroland_grenadelauncher_rainbow"				"1"
@@ -188,6 +361,8 @@
 	"Silver Botkiller Stickybomb Launcher Mk.I"			"1"
 	"Silver Botkiller Stickybomb Launcher Mk.II"			"1"
 	"teufort_stickybomblauncher_rooftopwrangler"			"1"
+	"The Bootlegger"						"1"
+	"The Horseless Headless Horseman's Headtaker"			"1"
 	"The Scottish Handshake"					"1"
 	"warbird_grenadelauncher_butcherbird"				"1"
 	"warbird_grenadelauncher_warhawk"				"1"
@@ -211,6 +386,7 @@
 	"harvest_minigun_pumpkinpatch"					"1"
 	"Iron Curtain"							"1"
 	"powerhouse_minigun_brickhouse"					"1"
+	"Promo Huo Long Heatmaker"					"1"
 	"pyroland_minigun_braincandy"					"1"
 	"pyroland_minigun_mistercuddles"				"1"
 	"Rust Botkiller Minigun Mk.I"					"1"
@@ -223,6 +399,7 @@
 	"Blood Botkiller Wrench Mk.I"					"1"
 	"Carbonado Botkiller Wrench Mk.I"				"1"
 	"Diamond Botkiller Wrench Mk.I"					"1"
+	"Festive Frontier Justice"					"1"
 	"Festive Wrench 2011"						"1"
 	"gentlemanne_wrench_dressedtokill"				"1"
 	"gentlemanne_wrench_topshelf"					"1"
@@ -272,6 +449,7 @@
 	"craftsmann_sniperrifle_lumberfromdownunder"			"1"
 	"craftsmann_sniperrifle_shotinthedark"				"1"
 	"Diamond Botkiller Sniper Rifle Mk.I"				"1"
+	"Festive Huntsman"						"1"
 	"Festive SMG 2014"						"1"
 	"Festive Sniper Rifle 2011"					"1"
 	"gentlemanne_smg_highrollers"					"1"
@@ -289,12 +467,14 @@
 	"pyroland_sniperrifle_balloonicorn"				"1"
 	"pyroland_sniperrifle_rainbow"					"1"
 	"Rust Botkiller Sniper Rifle Mk.I"				"1"
+	"Shooting Star"							"1"
 	"Silver Botkiller Sniper Rifle Mk.I"				"1"
 	"Silver Botkiller Sniper Rifle Mk.II"				"1"
 	"teufort_smg_teamsprayer"					"1"
 	"teufort_smg_treadplatetormenter"				"1"
 	"teufort_sniperrifle_bogtrotter"				"1"
 	"The AWPer Hand"						"1"
+	"The Fortified Compound"					"1"
 	"warbird_smg_blitzkrieg"					"1"
 	"warbird_sniperrifle_airwolf"					"1"
 	//_____________________________ Spy _____________________________\\
@@ -303,6 +483,7 @@
 	"concealedkiller_revolver_psychedelicslugger"			"1"
 	"craftsmann_revolver_oldcountry"				"1"
 	"Diamond Botkiller Knife Mk.I"					"1"
+	"Festive Ambassador"						"1"
 	"Festive Knife 2011"						"1"
 	"Festive Revolver 2014"						"1"
 	"Festive Sapper"						"1"
@@ -317,6 +498,7 @@
 	"harvest_revolver_macabreweb"					"1"
 	"harvest_revolver_wildwood"					"1"
 	"powerhouse_revolver_deadreckoner"				"1"
+	"Promo Red-Tape Recorder"					"1"
 	"pyroland_knife_bluemew"					"1"
 	"pyroland_knife_braincandy"					"1"
 	"pyroland_knife_stabbedtohell"					"1"
@@ -330,6 +512,7 @@
 	"The Quackenbirdt"						"1"
 	"The Sharp Dresser"						"1"
 	"The Snack Attack"						"1"
+	"The Wanga Prick"						"1"
 	"TTG Sam Revolver"						"1"
 	"TTG Watch"							"1"
 	"warbird_knife_airwolf"						"1"
@@ -370,7 +553,7 @@
 	"Team Fortress 2 Soundtrack Promo Package"			"1"
 	"Team Fortress 2 Soundtrack Promo Package Untradable"		"1"
 
-	//----------- Halloween/Full Moon items (Total: 252) ------------\\
+	//----------- Halloween/Full Moon items (Total: 254) ------------\\
 	//_________________________ All classes _________________________\\
 	"Cursed Cruise"							"1"
 	"Ghost of Spies Checked Past"					"1"
@@ -431,10 +614,12 @@
 	"Talon Trotters"						"1"
 	"The Alien Cranium"						"1"
 	"The Biomech Backpack"						"1"
+	"The Corpse Carrier"						"1"
 	"The Face Plante"						"1"
 	"The Halloweiner"						"1"
 	"The Horrific Head of Hare"					"1"
 	"The Hound's Hood"						"1"
+	"The Sprinting Cephalopod"					"1"
 	"The Terrier Trousers"						"1"
 	"The Xeno Suit"							"1"
 	"Wild Whip"							"1"
@@ -626,7 +811,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 742) ----------------------\\
+	//---------------------- Hats (Total: 744) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"A Rather Festive Tree"						"1"
 	"A Well Wrapped Hat"						"1"
@@ -817,6 +1002,7 @@
 	"Woolen Warmer"							"1"
 	"World Traveler"						"1"
 	"Wrap-A-Khamon"							"1"
+	"Yeti Park Cap"							"1"
 	"Yeti Park Hardhat"						"1"
 	//______________________ Multiple classes _______________________\\
 	"Bobby Bonnet"							"1"
@@ -994,6 +1180,7 @@
 	"MvM GateBot Light Pyro"					"1"
 	"Napper's Respite"						"1"
 	"Neptune's Nightmare"						"1"
+	"Nose Candy"							"1"
 	"Old Guadalajara"						"1"
 	"Partizan"							"1"
 	"Plumber's Pipe"						"1"
@@ -7590,22 +7777,38 @@
 	"Upgradeable TF_WEAPON_KNIFE"					"1"
 	"Upgradeable TF_WEAPON_REVOLVER"				"1"
 
-	//--------------------- Taunts (Total: 12) ----------------------\\
+	//--------------------- Taunts (Total: 22) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Laugh Taunt"							"1"
 	"Replay Taunt"							"1"
 	"Taunt: Burstchester"						"1"
-	"Taunt: Second Rate Sorcery"					"1"
-	"Taunt: Yeti Punch"						"1"
-	"Taunt: Yeti Smash"						"1"
 	"The Shred Alert"						"1"
+	//____________________________ Scout ____________________________\\
+	"Battin' a Thousand Taunt"					"1"
+	"Deep Fried Desire Taunt"					"1"
+	"Taunt: The Boston Breakdance"					"1"
 	//___________________________ Soldier ___________________________\\
 	"Fresh Brewed Victory Taunt"					"1"
 	"Taunt: Soldier's Requiem"					"1"
 	"Taunt: The Fubar Fanfare"					"1"
+	//____________________________ Pyro _____________________________\\
+	"Party Trick Taunt"						"1"
+	//___________________________ Demoman ___________________________\\
+	"Oblooterated Taunt"						"1"
+	"Spent Well Spirits Taunt"					"1"
+	"Taunt: True Scotsman's Call"					"1"
+	//____________________________ Heavy ____________________________\\
+	"Taunt: The Proletariat Showoff"				"1"
 	//____________________________ Medic ____________________________\\
 	"Meet the Medic Heroic Taunt"					"1"
 	"Results Are In Taunt"						"1"
+	//___________________________ Sniper ____________________________\\
+	"I See You Taunt"						"1"
+	"Taunt: Most Wanted"						"1"
+	"Taunt: The Killer Solo"					"1"
+	//_____________________________ Spy _____________________________\\
+	"Buy A Life Taunt"						"1"
+	"Taunt: Disco Fever"						"1"
 
 	//--------- Usable action items/MvM canteens (Total: 4) ---------\\
 	"Battery Canteens"						"1"

@@ -1,5 +1,5 @@
-// Whitelist generated at Mon, 14 Aug 2023 22:05:06 +0200
-// Whitelist: ETF2L Highlander (Autumn 2023) (ID: 13940)
+// Whitelist generated at Sat, 07 Oct 2023 12:56:03 +0200
+// Whitelist: ETF2L Highlander (Autumn 2023) (ID: 13998)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/etf2l_9v9
@@ -128,7 +128,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 53) ----------------------\\
+	//--------------------- Taunts (Total: 54) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -139,6 +139,7 @@
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
 	"Taunt: The Fist Bump"						"0"
+	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
