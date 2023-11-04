@@ -12,6 +12,3 @@ wget https://whitelist.tf/download/etf2l_ultiduo.txt -O etf2l_whitelist_ultiduo.
 
 zip -FSrj ../etf2l_configs.zip etf2l*.cfg etf2l_whitelist_*.txt
 zip -FSrj ../etf2l_configs_extra.zip *.cfg etf2l_whitelist_*.txt
-
-
-
