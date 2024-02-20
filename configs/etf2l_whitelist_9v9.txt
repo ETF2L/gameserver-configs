@@ -1,5 +1,5 @@
-// Whitelist generated at Sat, 07 Oct 2023 12:56:03 +0200
-// Whitelist: ETF2L Highlander (Autumn 2023) (ID: 13998)
+// Whitelist generated at Tue, 20 Feb 2024 15:19:28 +0100
+// Whitelist: ETF2L Highlander (Winter 2024) (ID: 14258)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/etf2l_9v9
@@ -15,10 +15,6 @@
 // Explosion on death miscs are: NOT allowed
 // Festive weapon reskins are: allowed
 // Botkiller weapon reskins are: allowed
-
-// Blocked weapons for Multiple classes
-// - Secondary
-//  * Reserve Shooter
 
 // Blocked weapons for Scout
 // - Secondary
@@ -49,9 +45,7 @@
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------- Blocked weapons/reskins (Total: 16) -------------\\
-	//______________________ Multiple classes _______________________\\
-	"The Reserve Shooter"						"0"
+	//------------- Blocked weapons/reskins (Total: 15) -------------\\
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
 	"Mad Milk"							"0"
@@ -128,7 +122,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 54) ----------------------\\
+	//--------------------- Taunts (Total: 56) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -151,6 +145,7 @@
 	"Taunt: The Homerunner's Hobby"					"0"
 	"Taunt: The Scooty Scoot"					"0"
 	//___________________________ Soldier ___________________________\\
+	"Taunt: Neck Snap"						"0"
 	"Taunt: Panzer Pants"						"0"
 	"Taunt: Rocket Jockey"						"0"
 	//____________________________ Pyro _____________________________\\
@@ -191,6 +186,7 @@
 	"Taunt: Luxury Lounge"						"0"
 	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
+	"Taunt: The Crypt Creeper"					"0"
 	"Taunt: The Travel Agent"					"0"
 	"Taunt: Tuefort Tango"						"0"
 }
