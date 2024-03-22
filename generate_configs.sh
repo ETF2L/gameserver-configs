@@ -2,8 +2,6 @@
 ## This script creates ETF2L config packages in the same way as it were made before being released on GitHub
 cd ./configs
 
-git fetch
-git reset --hard origin/master
 
 wget https://whitelist.tf/download/etf2l_6v6.txt -O etf2l_whitelist_6v6.txt
 wget https://whitelist.tf/download/etf2l_9v9.txt -O etf2l_whitelist_9v9.txt
