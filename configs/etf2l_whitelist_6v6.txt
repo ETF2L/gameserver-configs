@@ -1,5 +1,5 @@
-// Whitelist generated at Tue, 20 Feb 2024 15:19:27 +0100
-// Whitelist: ETF2L 6v6 (Summer 2023) (ID: 13999)
+// Whitelist generated at Fri, 22 Mar 2024 21:17:00 +0100
+// Whitelist: ETF2L 6v6 (Spring 2024) (ID: 14240)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/etf2l_6v6
@@ -30,6 +30,8 @@
 //  * Flying Guillotine
 //  * Mad Milk
 //  * Pretty Boy's Pocket Pistol
+// - Melee
+//  * Wrap Assassin
 
 // Blocked weapons for Soldier
 // - Primary
@@ -87,7 +89,7 @@
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------- Blocked weapons/reskins (Total: 38) -------------\\
+	//------------- Blocked weapons/reskins (Total: 39) -------------\\
 	//______________________ Multiple classes _______________________\\
 	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
@@ -101,6 +103,7 @@
 	"Promo Flying Guillotine"					"0"
 	"The Flying Guillotine"						"0"
 	"The Soda Popper"						"0"
+	"The Wrap Assassin"						"0"
 	//___________________________ Soldier ___________________________\\
 	"The Battalion's Backup"					"0"
 	"The Cow Mangler 5000"						"0"
@@ -191,7 +194,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 61) ----------------------\\
+	//--------------------- Taunts (Total: 56) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -199,16 +202,13 @@
 	"RPS Taunt"							"0"
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
-	"Taunt: Cheers!"						"0"
 	"Taunt: Kazotsky Kick"						"0"
 	"Taunt: Mannrobics"						"0"
-	"Taunt: Mourning Mercs"						"0"
 	"Taunt: The Fist Bump"						"0"
 	"Taunt: The Scaredy-cat!"					"0"
 	"Taunt: The Victory Lap"					"0"
 	"Taunt: Zoomin' Broom"						"0"
 	//____________________________ Scout ____________________________\\
-	"Taunt: Foul Play"						"0"
 	"Taunt: Runner's Rhythm"					"0"
 	"Taunt: Spin-to-Win"						"0"
 	"Taunt: The Boston Boarder"					"0"
@@ -229,7 +229,6 @@
 	"Taunt: The Skating Scorcher"					"0"
 	//___________________________ Demoman ___________________________\\
 	"Taunt: Drunk Mann's Cannon"					"0"
-	"Taunt: Roar O'War"						"0"
 	"Taunt: Scotsmann's Stagger"					"0"
 	"Taunt: Shanty Shipmate"					"0"
 	"Taunt: The Drunken Sailor"					"0"
@@ -249,7 +248,6 @@
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
-	"Taunt: Borrowed Bones"						"0"
 	"Taunt: Surgeon's Squeezebox"					"0"
 	"Taunt: The Mannbulance!"					"0"
 	"Taunt: Time Out Therapy"					"0"
