@@ -1,4 +1,4 @@
-// Whitelist generated at Sat, 25 May 2024 17:45:51 +0200
+// Whitelist generated at Sun, 14 Jul 2024 20:03:47 +0200
 // Whitelist: ETF2L 6v6 (Spring 2024) (ID: 14240)
 
 // Share or view this whitelist:
@@ -144,7 +144,13 @@
 	//_________________________ All classes _________________________\\
 	"Activated Campaign 3 Pass"					"0"
 
-	//----------------- ETF2L exceptions (Total: 1) -----------------\\
+	//----------------- ETF2L exceptions (Total: 5) -----------------\\
+	//_________________________ All classes _________________________\\
+	"Clan Pride"							"0"
+	"Flair!"							"0"
+	"Photo Badge"							"0"
+	//______________________ Multiple classes _______________________\\
+	"The Conscientious Objector"					"0"
 	//____________________________ Pyro _____________________________\\
 	"Nose Candy"							"0"
 

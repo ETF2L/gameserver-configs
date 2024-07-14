@@ -1,5 +1,5 @@
-// Whitelist generated at Sat, 25 May 2024 17:45:51 +0200
-// Whitelist: ETF2L Highlander (Winter 2024) (ID: 14258)
+// Whitelist generated at Sun, 14 Jul 2024 20:03:48 +0200
+// Whitelist: ETF2L Highlander (Summer 2024) (ID: 14622)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/etf2l_9v9
@@ -26,6 +26,10 @@
 // - Secondary
 //  * Scorch Shot
 
+// Blocked weapons for Demoman
+// - Primary
+//  * Loch-n-Load
+
 // Blocked weapons for Engineer
 // - Secondary
 //  * Short Circuit
@@ -45,7 +49,7 @@
 {
 	"unlisted_items_default_to"		"1"
 
-	//------------- Blocked weapons/reskins (Total: 15) -------------\\
+	//------------- Blocked weapons/reskins (Total: 16) -------------\\
 	//____________________________ Scout ____________________________\\
 	"Crit-a-Cola"							"0"
 	"Mad Milk"							"0"
@@ -54,6 +58,8 @@
 	"The Flying Guillotine"						"0"
 	//____________________________ Pyro _____________________________\\
 	"The Scorch Shot"						"0"
+	//___________________________ Demoman ___________________________\\
+	"The Loch-n-Load"						"0"
 	//____________________________ Heavy ____________________________\\
 	"Deflector"							"0"
 	//__________________________ Engineer ___________________________\\
@@ -72,7 +78,13 @@
 	//_________________________ All classes _________________________\\
 	"Activated Campaign 3 Pass"					"0"
 
-	//----------------- ETF2L exceptions (Total: 1) -----------------\\
+	//----------------- ETF2L exceptions (Total: 5) -----------------\\
+	//_________________________ All classes _________________________\\
+	"Clan Pride"							"0"
+	"Flair!"							"0"
+	"Photo Badge"							"0"
+	//______________________ Multiple classes _______________________\\
+	"The Conscientious Objector"					"0"
 	//____________________________ Pyro _____________________________\\
 	"Nose Candy"							"0"
 
