@@ -1,4 +1,4 @@
-// Whitelist generated at Sun, 21 Jul 2024 11:40:53 +0200
+// Whitelist generated at Mon, 22 Jul 2024 00:14:57 +0200
 // Whitelist: ETF2L Ultiduo (ID: 8677)
 
 // Share or view this whitelist:
