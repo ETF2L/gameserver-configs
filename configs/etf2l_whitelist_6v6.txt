@@ -1,5 +1,5 @@
-// Whitelist generated at Mon, 16 Sep 2024 20:22:10 +0200
-// Whitelist: ETF2L 6v6 (Autumn 2024) (ID: 14754)
+// Whitelist generated at Sun, 23 Mar 2025 20:28:28 +0100
+// Whitelist: ETF2L 6v6 (Winter 2025) (ID: 17921)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/etf2l_6v6
