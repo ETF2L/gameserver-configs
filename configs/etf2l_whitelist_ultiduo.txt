@@ -1,4 +1,4 @@
-// Whitelist generated at Sat, 15 Nov 2025 23:30:59 +0100
+// Whitelist generated at Sat, 13 Dec 2025 15:50:18 +0100
 // Whitelist: ETF2L Ultiduo (ID: 8677)
 
 // Share or view this whitelist:
@@ -336,7 +336,7 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------------ Gifting items (Total: 34) ------------------\\
+	//------------------ Gifting items (Total: 35) ------------------\\
 	"Companion Square Promo Package"				"1"
 	"Gift - 1 Duck Token"						"1"
 	"Gift - 1 EOTL Key"						"1"
@@ -367,6 +367,7 @@
 	"Self Gift - Stocking Stuffer 2022"				"1"
 	"Self Gift - Stocking Stuffer 2023"				"1"
 	"Self Gift - Stocking Stuffer 2024"				"1"
+	"Self Gift - Stocking Stuffer 2025"				"1"
 	"Steam Translation Package"					"1"
 	"Store Purchase Promotion Package"				"1"
 	"Team Fortress 2 Soundtrack Promo Package"			"1"
@@ -636,7 +637,7 @@
 	"Under Cover"							"1"
 	"Zombie Spy"							"1"
 
-	//---------------------- Hats (Total: 811) ----------------------\\
+	//---------------------- Hats (Total: 821) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Alakablamicon"							"1"
 	"All Hallows' Hatte"						"1"
@@ -796,6 +797,7 @@
 	"The Mean Captain"						"1"
 	"The Merc's Mohawk"						"1"
 	"The MK 50"							"1"
+	"The Old Days Devotion"						"1"
 	"The Onimann"							"1"
 	"The Patriot Peak"						"1"
 	"The Pithy Professional"					"1"
@@ -878,6 +880,7 @@
 	"Commonwealth Commando"						"1"
 	"Death Racer's Helmet"						"1"
 	"dec2014 Marauders Mask"					"1"
+	"Epilogue Locks"						"1"
 	"Flipped Trilby"						"1"
 	"Fortunate Son"							"1"
 	"Fried Batter"							"1"
@@ -956,6 +959,7 @@
 	"Polar Charger"							"1"
 	"Racc Mann"							"1"
 	"Roaming Roman"							"1"
+	"Scrooge McCrocket"						"1"
 	"Shortness Of Breath"						"1"
 	"Sky High Fly Guy"						"1"
 	"Soldier's Slope Scopers"					"1"
@@ -1010,6 +1014,7 @@
 	"Burning Beanie"						"1"
 	"Candy Cranium"							"1"
 	"Combustible Cutie"						"1"
+	"Commonwealth Commander"					"1"
 	"Connoisseur's Cap"						"1"
 	"Dead Heat"							"1"
 	"dec2014 Black Knights Bascinet"				"1"
@@ -1098,11 +1103,13 @@
 	"The Winter Wonderland Wrap"					"1"
 	"Traffic Cone"							"1"
 	"tw_pyrobot_helmet"						"1"
+	"Veteran's Visor"						"1"
 	"Wandering Wraith"						"1"
 	//___________________________ Demoman ___________________________\\
 	"Backbreaker's Skullcracker"					"1"
 	"Badlands Bandido"						"1"
 	"Blast Defense"							"1"
+	"Blizzard Bonnet"						"1"
 	"Bombard Brigadier"						"1"
 	"Bomb Beanie"							"1"
 	"Bruce's Bonnet"						"1"
@@ -1177,6 +1184,7 @@
 	"Bullet Buzz"							"1"
 	"Cadaver's Cranium"						"1"
 	"Capone's Capper"						"1"
+	"Chill-Seeker"							"1"
 	"Cold War Luchador"						"1"
 	"Commando Elite"						"1"
 	"Convict Cap"							"1"
@@ -1243,6 +1251,7 @@
 	"War Head"							"1"
 	"White Russian"							"1"
 	//__________________________ Engineer ___________________________\\
+	"Alpine Hawk"							"1"
 	"Arctic Mole"							"1"
 	"Big Country"							"1"
 	"Blitzen Bowl"							"1"
@@ -1314,6 +1323,7 @@
 	"dec2014 Surgeon's Shako"					"1"
 	"Doctor's Sack"							"1"
 	"Field Practice"						"1"
+	"Flatline Flatcap"						"1"
 	"German Gonzila"						"1"
 	"Grimm Hatte"							"1"
 	"Halogen Head Lamp"						"1"
@@ -1360,6 +1370,7 @@
 	"Victorian Villainy"						"1"
 	"Vintage Tyrolean"						"1"
 	//___________________________ Sniper ____________________________\\
+	"Air Head"							"1"
 	"Archer's Sterling"						"1"
 	"Blindin' Bonnett"						"1"
 	"Brim-Full Of Bullets"						"1"
@@ -1460,7 +1471,7 @@
 	"tw_spybot_hood"						"1"
 	"Voodoo Vizier"							"1"
 
-	//--------------------- Miscs (Total: 7842) ---------------------\\
+	//--------------------- Miscs (Total: 7857) ---------------------\\
 	//_________________________ All classes _________________________\\
 	"A Handsome Handy Thing"					"1"
 	"Altruist's Adornment"						"1"
@@ -4494,6 +4505,7 @@
 	"Late Night TF2 Cup Participant Summer 2019"			"1"
 	"Late Night TF2 Cup Silver Medal Autumn 2019"			"1"
 	"Late Night TF2 Cup Silver Medal Summer 2019"			"1"
+	"Lazer Gazers"							"1"
 	"LBTF2 6v6 Access 1st Place Season 9"				"1"
 	"LBTF2 6v6 Access 1st Place Season 10"				"1"
 	"LBTF2 6v6 Access 1st Place Season 11"				"1"
@@ -7126,6 +7138,7 @@
 	"Snack's Summery Ultiduo Siesta Participation Medal 2017 Season 2"	"1"
 	"Snack's Summery Ultiduo Siesta Silver Medal 2017"		"1"
 	"Snack's Summery Ultiduo Siesta Silver Medal 2017 Season 2"	"1"
+	"Snow Merc"							"1"
 	"Something Special For Someone Special (Wearable)"		"1"
 	"South American Vanilla Fortress 6v6 Access First Place Season 5"	"1"
 	"South American Vanilla Fortress 6v6 Access Participant Season 5"	"1"
@@ -7303,6 +7316,7 @@
 	"TF2Maps 72hr TF2Jam Participant 2021"				"1"
 	"TF2Maps 72hr TF2Jam Participant 2023"				"1"
 	"TF2Maps 72hr TF2Jam Participant 2024"				"1"
+	"TF2Maps 72hr TF2Jam Participant 2025"				"1"
 	"TF2Maps 72hr TF2Jam Summer Participant 2016"			"1"
 	"TF2Maps 72hr TF2Jam Summer Participant 2017"			"1"
 	"TF2Maps 72hr TF2Jam Summer Participant 2018"			"1"
@@ -7313,6 +7327,7 @@
 	"TF2Maps Charitable Heart 2021"					"1"
 	"TF2Maps Charitable Heart 2023"					"1"
 	"TF2Maps Charitable Heart 2024"					"1"
+	"TF2Maps Charitable Heart 2025"					"1"
 	"TF2Maps Ray of Sunshine 2018"					"1"
 	"TF2Maps Ray of Sunshine 2019"					"1"
 	"TF2Maps Ray of Sunshine 2020"					"1"
@@ -8775,6 +8790,7 @@
 	"The Red Socks"							"1"
 	"The Ripped Rider"						"1"
 	"The Sack Fulla Smissmas"					"1"
+	"The Sole Providers"						"1"
 	"The Southie Shinobi"						"1"
 	"The Spooky Shoes"						"1"
 	"The Stereoscopic Shades"					"1"
@@ -8788,6 +8804,7 @@
 	"Torn Terror"							"1"
 	"Transparent Trousers"						"1"
 	"tw_scoutbot_armor"						"1"
+	"Willis' Warmer"						"1"
 	"Wipe Out Wraps"						"1"
 	//___________________________ Soldier ___________________________\\
 	"Antarctic Parka"						"1"
@@ -8853,6 +8870,7 @@
 	"dec2014 Pyromancer's Raiments"					"1"
 	"dec2014 Torchers Tabard"					"1"
 	"Deity's Dress"							"1"
+	"Deserter's Duster"						"1"
 	"Discovision"							"1"
 	"El Muchacho"							"1"
 	"EOTL_pyro_sweater"						"1"
@@ -8932,6 +8950,7 @@
 	"Dynamite Abs"							"1"
 	"EOTL_demopants"						"1"
 	"EOTL_demo_dynamite"						"1"
+	"Festive Fleece"						"1"
 	"Fused Plates"							"1"
 	"Gaelic Glutton"						"1"
 	"Glasgow Bankroll"						"1"
@@ -9007,6 +9026,7 @@
 	"MvM GateBot Light Heavy"					"1"
 	"Paka Parka"							"1"
 	"Poncho del Pesado"						"1"
+	"Puncher's Polar Puffer"					"1"
 	"Road Block"							"1"
 	"Security Shades"						"1"
 	"Siberian Sweater"						"1"
@@ -9048,6 +9068,7 @@
 	"Yuri's Revenge"						"1"
 	//__________________________ Engineer ___________________________\\
 	"Aim Assistant"							"1"
+	"Alpine Apparel"						"1"
 	"Brain Interface"						"1"
 	"Cargo Constructor"						"1"
 	"Conaghers' Utility Idol"					"1"
@@ -9136,6 +9157,7 @@
 	"Archimedes"							"1"
 	"Bunnyhopper's Ballistics Vest"					"1"
 	"Burly Beast"							"1"
+	"Cardiologist's Cardigan"					"1"
 	"Clinical Investigator"						"1"
 	"Coldfront Carapace"						"1"
 	"Consigliere's Coverup"						"1"
@@ -9165,6 +9187,7 @@
 	"Pocket Heavy"							"1"
 	"Santarchimedes"						"1"
 	"Scourge of the Sky"						"1"
+	"Scrub Stompers"						"1"
 	"Self-Care"							"1"
 	"The Angel of Death"						"1"
 	"The Chronoscarf"						"1"
@@ -9226,6 +9249,7 @@
 	"Sir Hootsalot"							"1"
 	"Snug Sharpshooter"						"1"
 	"Starduster"							"1"
+	"Sydney Shearling"						"1"
 	"The Anger"							"1"
 	"The Archers Groundings"					"1"
 	"The Birdman of Australiacatraz"				"1"
@@ -9258,10 +9282,12 @@
 	"Velveteen Villain"						"1"
 	"Wagga Wagga Wear"						"1"
 	//_____________________________ Spy _____________________________\\
+	"Aristocravat"							"1"
 	"Aristotle"							"1"
 	"Assassin's Attire"						"1"
 	"Bandit's Boots"						"1"
 	"Bird's Eye Viewer"						"1"
+	"Black Tie Affair"						"1"
 	"Camera Beard"							"1"
 	"Chicago Overcoat"						"1"
 	"Classic Criminal"						"1"
