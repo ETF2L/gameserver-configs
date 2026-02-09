@@ -1,4 +1,4 @@
-// Whitelist generated at Sat, 13 Dec 2025 15:50:18 +0100
+// Whitelist generated at Mon, 02 Feb 2026 16:46:29 +0100
 // Whitelist: ETF2L BBall (ID: 14305)
 
 // Share or view this whitelist:
