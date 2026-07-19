@@ -1,4 +1,4 @@
-// Whitelist generated at Thu, 26 Mar 2026 22:31:35 +0100
+// Whitelist generated at Sun, 19 Jul 2026 16:18:27 +0200
 // Whitelist: ETF2L Ultiduo (ID: 18642)
 
 // Share or view this whitelist:
@@ -263,7 +263,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 89) ----------------------\\
+	//--------------------- Taunts (Total: 93) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -296,6 +296,7 @@
 	"Taunt: The Scooty Scoot"					"0"
 	"Taunt: The Trackman's Touchdown"				"0"
 	//___________________________ Soldier ___________________________\\
+	"Taunt: Buffoon's Bivouac"					"0"
 	"Taunt: Neck Snap"						"0"
 	"Taunt: Panzer Pants"						"0"
 	"Taunt: Rocket Jockey"						"0"
@@ -303,6 +304,7 @@
 	"Party Trick Taunt"						"0"
 	"Pool Party Taunt"						"0"
 	"Taunt: Cremator's Condolences"					"0"
+	"Taunt: Friendly Fire"						"0"
 	"Taunt: Roasty Toasty"						"0"
 	"Taunt: Scorcher's Solo"					"0"
 	"Taunt: The Balloonibouncer"					"0"
@@ -328,6 +330,7 @@
 	"Taunt: Ring King"						"0"
 	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
+	"Taunt: The Circuit Breaker"					"0"
 	"Taunt: The Proletariat Showoff"				"0"
 	"Taunt: The Road Rager"						"0"
 	"Taunt: The Russian Arms Race"					"0"
@@ -356,6 +359,7 @@
 	"Buy A Life Taunt"						"0"
 	"Taunt: Curtain Call"						"0"
 	"Taunt: Disco Fever"						"0"
+	"Taunt: Faux-calization"					"0"
 	"Taunt: Luxury Lounge"						"0"
 	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"
