@@ -1,5 +1,5 @@
-// Whitelist generated at Sun, 11 Oct 2026 18:58:06 +0200
-// Whitelist: ETF2L 6v6 (Winter 2026) (ID: 18641)
+// Whitelist generated at Fri, 30 Oct 2026 19:09:29 +0100
+// Whitelist: ETF2L 6v6 (Winter 2026) (ID: 20077)
 
 // Share or view this whitelist:
 //	https://whitelist.tf/etf2l_6v6
@@ -190,7 +190,7 @@
 	"The Jingle Belt"						"0"
 	"Elf Care Provider"						"0"
 
-	//--------------------- Taunts (Total: 68) ----------------------\\
+	//--------------------- Taunts (Total: 61) ----------------------\\
 	//_________________________ All classes _________________________\\
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
@@ -208,7 +208,6 @@
 	//____________________________ Scout ____________________________\\
 	"Taunt: Chairholder"						"0"
 	"Taunt: Runner's Rhythm"					"0"
-	"Taunt: Showrunner's Spirit"					"0"
 	"Taunt: Spin-to-Win"						"0"
 	"Taunt: The Boston Boarder"					"0"
 	"Taunt: The Bunnyhopper"					"0"
@@ -218,15 +217,12 @@
 	//___________________________ Soldier ___________________________\\
 	"Taunt: Buffoon's Bivouac"					"0"
 	"Taunt: Neck Snap"						"0"
-	"Taunt: One-Eyed Punt"						"0"
 	"Taunt: Panzer Pants"						"0"
 	"Taunt: Rocket Jockey"						"0"
 	//____________________________ Pyro _____________________________\\
 	"Pool Party Taunt"						"0"
-	"Taunt: Friendly Fire"						"0"
 	"Taunt: Roasty Toasty"						"0"
 	"Taunt: Scorcher's Solo"					"0"
-	"Taunt: Sear You Later"						"0"
 	"Taunt: The Balloonibouncer"					"0"
 	"Taunt: The Hot Wheeler"					"0"
 	"Taunt: The Skating Scorcher"					"0"
@@ -242,7 +238,6 @@
 	"Taunt: Bear Hug"						"0"
 	"Taunt: Russian Rubdown"					"0"
 	"Taunt: The Boiling Point"					"0"
-	"Taunt: The Circuit Breaker"					"0"
 	"Taunt: The Road Rager"						"0"
 	"Taunt: The Russian Arms Race"					"0"
 	"Taunt: The Soviet Strongarm"					"0"
@@ -254,7 +249,6 @@
 	"Taunt: The Dueling Banjo"					"0"
 	"Taunt: The Jumping Jack"					"0"
 	//____________________________ Medic ____________________________\\
-	"Taunt: Hippocratic Hypocrite"					"0"
 	"Taunt: Surgeon's Squeezebox"					"0"
 	"Taunt: The Mannbulance!"					"0"
 	"Taunt: Time Out Therapy"					"0"
@@ -262,7 +256,6 @@
 	"Taunt: Didgeridrongo"						"0"
 	"Taunt: Shooter's Stakeout"					"0"
 	//_____________________________ Spy _____________________________\\
-	"Taunt: Faux-calization"					"0"
 	"Taunt: Luxury Lounge"						"0"
 	"Taunt: Tailored Terminal"					"0"
 	"Taunt: The Boxtrot"						"0"

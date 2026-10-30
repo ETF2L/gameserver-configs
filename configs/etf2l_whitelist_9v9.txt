@@ -1,4 +1,4 @@
-// Whitelist generated at Sun, 11 Oct 2026 18:58:08 +0200
+// Whitelist generated at Fri, 30 Oct 2026 19:09:29 +0100
 // Whitelist: ETF2L Highlander (Summer 2025) (ID: 18387)
 
 // Share or view this whitelist:
